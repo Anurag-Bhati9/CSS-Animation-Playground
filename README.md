@@ -39,7 +39,7 @@ css-animation-playground/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/TejasviMaheshwari/css-animation-playground.git
+git clone (https://anurag-bhati9.github.io/CSS-Animation-Playground/)
 ```
 
 ### 2. Open the project
@@ -61,7 +61,7 @@ No additional dependencies or installation are required.
 After deploying the project using GitHub Pages, add your live demo link here:
 
 ```text
-https://tejasvimaheshwari.github.io/css-animation-playground/
+https://anurag-bhati9.github.io/CSS-Animation-Playground/
 ```
 
 ## 🎯 Animations Demonstrated
